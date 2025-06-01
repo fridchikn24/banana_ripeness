@@ -18,3 +18,6 @@ a computer vision project that uses Tensorflow CNNs to determine whether a banan
 
 
 working on modularizing
+
+
+data can be located at: https://www.kaggle.com/datasets/shahriar26s/banana-ripeness-classification-dataset 
