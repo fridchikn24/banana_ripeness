@@ -7,8 +7,7 @@ a computer vision project that uses Tensorflow CNNs to determine whether a banan
 
     overripe       0.93      0.98      0.95       113
         ripe       0.97      0.94      0.96       154
-      rotten       0.93      0.94      0.94       185
-   underripe       0.95      0.92      0.94       110
+      rotten       0.93      0.94      0.94       185underripe       0.95      0.92      0.94       110
 
    
 
