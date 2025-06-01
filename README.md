@@ -3,7 +3,7 @@
 a computer vision project that uses Tensorflow CNNs to determine whether a banana is ripe, overripe, rotten, or underripe.
 
 
-precision    recall  f1-score   support
+    precision    recall  f1-score   support
 
     overripe       0.93      0.98      0.95       113
         ripe       0.97      0.94      0.96       154
